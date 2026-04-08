@@ -1,0 +1,31 @@
+text,label
+Doctor was very helpful,staff
+Nurse was rude,staff
+Waiting time is too long,delay
+Had to wait for hours,delay
+Hospital was clean,facility
+Room was not clean,facility
+Billing process was smooth,billing
+There was an issue with payment,billing
+Treatment was good,treatment
+Doctor gave wrong treatment,treatment
+Staff behaviour was excellent,staff
+Long queue and delay,delay
+Clean and hygienic hospital,facility
+Billing was confusing,billing
+Treatment worked well,treatment
+doctor achha tha,staff
+nurse ne achha behave nahi kiya,staff
+bahut deri hui,delay
+intezaar bahut lamba tha,delay
+hospital saaf tha,facility
+kamra saaf nahi tha,facility
+billing me problem hui,billing
+payment issue tha,billing
+treatment achha tha,treatment
+galat treatment diya gaya,treatment
+delay hua,delay
+deri hui,delay
+late ho gaya,delay
+bahut wait karna pada,delay
+waiting time zyada tha,delay
